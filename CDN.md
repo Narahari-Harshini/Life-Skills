@@ -5,7 +5,8 @@
 
 A content delivery network or CDN is a system of distributed servers that makes page loading faster, especially for applications that use large amounts of data CDN can stand for content delivery network or content distribution network. When a user visits a website, data from that website's server has to travel across the internet to reach the user's computer. If the user is located far from that server, it will take a long time to load a large file, such as a video or website image. Instead, the website content is stored on CDN servers geographically closer to the users and reaches their computers much faster.
 
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/a266112b-d719-42fc-844d-2b0a8ffe074b)
+
 
 ## Importance of CDN
 
