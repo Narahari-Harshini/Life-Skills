@@ -22,7 +22,7 @@ And there are some interesting topics mentioned in the video that one should foc
 - **Mindful Practice:** Improving quality over quantity learning.
 
 #### The Role of Mindset:
-- **Growth Mindset:** Believing in the ability to improve through effort and learning.
+- **Growth Mindset:** Believing in improving through effort and learning.
 - **Embracing Challenges:** Viewing challenges as opportunities for growth.
 
 
