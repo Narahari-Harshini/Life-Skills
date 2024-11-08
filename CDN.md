@@ -62,3 +62,9 @@ This helps protect websites from attacks and ensures secure data transmission.
 ## Conclusion
 
 CDNs are essential tools for modern web development, offering performance, scalability, and security benefits. By understanding the core principles and benefits of CDNs, developers and organizations can make informed decisions to leverage this technology effectively.
+
+
+## References
+
+https://aws.amazon.com/what-is/cdn/
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
