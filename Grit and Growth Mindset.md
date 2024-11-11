@@ -1,8 +1,8 @@
-### 1. Paraphrase the video in a few (1 or 2) lines. Use your own words.
+### 1. Paraphrase the video in a few lines. Use your own words.
 
 Grit involves passion and perseverance toward long-term goals, staying committed to our future every day—not for months but for years—and working hard to make that future a reality. It’s like living life as a marathon, not a sprint. One of the best ideas suggested in the video is the concept of a *growth mindset*.
 
-### 2. Paraphrase the video in a few (1 or 2) lines in your own words.
+### 2. Paraphrase the video in a few lines in your own words.
 
 The video introduces the concept of a "growth mindset," which is the belief that abilities and intelligence can be developed through effort, learning, and persistence.
 It emphasizes that adopting this mindset encourages resilience and a willingness to face challenges, leading to greater personal and academic success.
